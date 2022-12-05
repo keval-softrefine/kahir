@@ -2603,6 +2603,16 @@ select {
         }
     }
     @media screen and (max-width: 480px) {
+        .bg-home {
+            background-position-x: -245px;
+        }
+        .pt-page-2 .responsive-margin {
+            margin-left: 0;
+            width: 100%;
+        }
+        .bg-loveline {
+            background-position: top;
+        }
         #save_date
         {
             margin-top: 30px;font-size:24px;
